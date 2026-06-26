@@ -1,1 +1,30 @@
+## Research Question 001 
+Date: June 25th, 2026.
+# Are there indicators from quarter t that predict behavior in quarter t + 1?
+Objective:
+- Can we determine whether any quarterly variables reveal predictive indformation about the following quarter?
+Target Variables:
+- Quarterly Returns
+- Quarterly Volatility
+- Maximum Drawdown
+- Relative Performance vs S&P 500
+Predictor Variables:
+- Revenue Growth
+- EPS Growth
+- P/E Ratio
+- Market Capitalization
+- Quarterly Return
+- Trading Volume
+- Dividend Yield
+- Debt-to-Equity Ratio
+- Free Cash Flow
+- RSI
+- Moving Averages
+Null Hypothesis:
+- There are no clear patterns in quarter t that have predictable power in quarter t + 1's performance.
+Alternative Hypothesis:
+- There are clear patterns in quarter t that have predictable power in aurter t + 1's performance.
+
+## Research Question 002
+Date:
 
